@@ -97,7 +97,7 @@ function setup() {
   blower.mouseClicked(airblow);
 
   mute_btn = createImg('mute.png');
-  mute_btn.position(440,20);
+  mute_btn.position(200,20);
   mute_btn.size(50,50);
   mute_btn.mouseClicked(mute);
   
